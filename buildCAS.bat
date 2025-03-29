@@ -1,0 +1,1 @@
+"..\bin\pasmo.exe" Main.asm Rally.cas Symbol.txt
